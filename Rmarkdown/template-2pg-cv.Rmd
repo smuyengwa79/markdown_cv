@@ -6,15 +6,15 @@ output:
 geometry: margin=1in
 
 title: "CV"
-author: Grace Brewster Murray Hopper
+author: SHYLOCK MUYENGWA
 #orcid: "orcid.org/0000-0002-9577-6885"
-jobtitle: "Computer Scientist & United States Navy Rear Admiral"
-address: "Address · Arlington · VA 22205"
+jobtitle: "Environmental Science, Evaluation and Social Research Design"
+address: "15 Ridge Road Avondale. Harare. Zimbabwe"
 fontawesome: yes
-email: FLOW-MATIC@cobol
-github: hopper
-#phone: "+1 555 5555"
-web: 'wikipedia.org/wiki/Grace_Hopper'
+email: shylock.muyengwa@gmail.com 
+github: shylock79
+#phone: "+263779970322"
+web: 'www.c4ierd.org'
 updated: yes
 
 keywords: RMarkdown, academic CV, template
@@ -28,32 +28,60 @@ urlcolor: blue
 
 # EDUCATION
 
-*Yale University*, Ph.D. Mathematics \hfill 1934
+*University of Florida*, Ph.D. Interdisciplinary Ecology \hfill 2018
 
-*Yale University*, M.S. Mathematics \hfill 1930
+*University of Zimbabwe*, M.S. Social Ecology \hfill 2005
 
-*Vassar College*, B.S. Mathematics & Physics \hfill 1928
+*University of Zimbabwe*, B.S. Psychology \hfill 2002
 
-# EMPLOYMENT
+# SUMMARY 
+> Dr. Muyengwa, has more than 10 years of relevant experience with rigorous quantitative research design and analysis/evaluation, survey design, as well as a breadth of experience in various sectors of agriculture, food security, youth employment and empowerment, governance, community based natural resources management, and livelihoods. Some of his skills include survey design and implementation, participatory methodologies, structured interviews, and focus group facilitation. Dr. Muyengwa has worked in Botswana, Namibia, Mozambique, South Africa, Zambia, and Zimbabwe 
 
-*United States Naval Reserve:*
+# SELECTED CONSULTANCIES 
 
- > Naval Reserve Midshipmen's School \hfill 1943--1944
+*Baseline Consultant Peace Parks Foundation* \hfill 2017(Dec)--2018(Aug)
 
-*Bureau of Ships Computation Project (Harvard):*
+> Conducted a livelihoods assessment survey in the Simalaha Conservancy in Zambia to prepare for the development of the Greater Kafue Widlife Area.   
 
- > Research Fellow \hfill 1945-1949
- > Lieutenant, Jr Grade \hfill 1944
+*Baseline Consultant, Ministry of Environment- Government of Zimbabwe* \hfill 2016(Oct)--2018(Apr)
+
+
  
-*Eckert–Mauchly Computer Corporation:*
+*Baseline Consultant Peace Parks Foundation* \hfill 2016(Jul)--2016(Aug)
 
- >  Senior Mathematician \hfill 1949-–1967
+> Collected situational and baseline data to inform the Greater Limpopo Trans-frontier Conservation Area’s Livelihoods Diversification Strategy. Drafted the Livelihoods Strategy document of the GLC
 
-*Navy Programming Languages Group, Navy Office of Information Systems Planning:*
+*Stakeholder Consultant, UNDP Zimbabwe* \hfill 2016(May)--2016(Jul)
 
- > Director (and promoted to Captain) \hfill 1967--1977  
+*Social Impact Assessment Consultant, GEF Zambia* \hfill 2016(May)--2016(Jul)
 
-# TEACHING
+> Conducted a Social Impact Assessment of the South Luangwa National Park. I led the collection of quantitative survey and analysis to understand the governance and livelihood impacts of protected areas. 
+
+*Short term Research Design and Data Analysis Expert* \hfill  2014(Nov)-- 2015 (April)
+
+ > Was hired as a consultant to lead the formulation and design of a national study on Citizen’s Perception of Access to Justice that is being implemented by CALR on behalf of the Ministry of Justice. 
+
+*Lead Monitoring and Evaluation Expert (Africa Evaluation Association/ L’Assocation Africane d’Evalu)* \hfill Aug (2015)-- Dec(2015) 
+
+ > I led the design of tools and the methodology for assessing the impact of African Capacity Building Capacity Foundation’s (ACBF) interventions in Africa from 1991-2014. My specific role was to formulate a  non-experimental evaluation design to assess ACBF’s impact over its 24 year life span in 45 African Countries.
+ 
+*Local Capacity Builder (Monitoring and Evaluation), SNV- The Netherland Development Organization* \hfill  2013 (Oct)-- 2014(Feb)
+
+ > I led the development of baseline strategy for  SNV’s Rural Agriculture Revitalization Program.  (RARP-CSF) sought to enhance household food security, generate employment and improve household income through the commercialization of smallholder farming across eight rural provinces of Zimbabwe. I collected and validated Monitoring and Evaluation data for Value Chain Financing, Matching Grants, Agrodealer Restocking, Contract Farming, and SME Support
+
+*Team Leader (Monitoring and Evaluation), Clive and Associates* \hfill 2013 (Sept) --2013 (Nov)
+
+ > I led a team reviewed PhytoTrade Africa's M&E system and provided strategic direction toward the client's 2014 fund-raising stratgey. In doing so, we developed indicators based on examples of best practice M&E and Marketing to revise and update PhytoTrade Africa's monitoring and evaluation system
+ 
+ *National Biotrade Consutant, United Nations Conference on Trade and Development (UNCTAD)* \hfill 2013 (Oct) -- 2013 (Dec) 
+ 
+ > Collected and collated BTIAS  data gathering sheets from serveral CSOs on for UNCTAD  and  PhytoTrade Africa for the years 2011 and  2012
+Collaborated in the review of PhytoTrade Africa's environmental and  social  impact assessment indicators
+
+
+
+
+# CONSULTING PROFILE
 
 *Associate Professor, Mathematics, Vassar* \hfill 1931--1941
 
@@ -67,19 +95,12 @@ urlcolor: blue
 
 ## **Journal Articles**
 
-G. M. Hopper and O. Ore. 1934. "*New types of irreducibility criteria*." Bull. Amer. Math. Soc. 40 (216). 
+Muyengwa, S. (2015). *Determinants of Individual Level Satisfaction with Community Based Natural Resources Management: A Case of Five Communities in Namibia*. Environments, 2(4), 608–623.
+Muyengwa, S., & Child, B. (2017). *Re-assertion of Elite Control in Masoka’s Wildlife Program, Zimbabwe*. Journal of Sustainable Development, 10(6), p28. https://doi.org/10.5539/jsd.v10n6p28
+Muyengwa, S., Child, B., & Lubilo, R. (2014). *Elite capture: A comparative Analysis of Meso Level Governance in Botswana, Namibia, Zambia, and Zimbabwe*. In B. Grenville & B. Child (Eds.), Adaptive Cross-scalar Governance of Natural Resources (1st ed., pp. 179–203). London, U.K.: Routledge.
+Muyengwa, S., & Kangueehi, G. (2013). *Decentralized governance in Wuparo Conservancy, Caprivi, Namibia.* In C. M. Breen (Ed.), Community-Based Natural Resource Management in Southern Africa: An Introduction (pp. 205–214). United Kingdom: AuthorHouse.
 
 
-
-## **Books**
-
-Beyer, Kurt W. 2009. *Grace Hopper and the Invention of the Information Age*. Cambridge, Massachusetts: MIT Press. ISBN 978-0-262-01310-9.
-
-Williams, Kathleen Broome. 2004. *Grace Hopper: Admiral of the Cyber Sea* (1st ed.). Annapolis, Maryland: Naval Institute Press. ISBN 978-1-55750-952-9.
-
-# PUBLIC MEDIA
-
-"Nano-seconds" lecture by Grace Hopper. https://www.youtube.com/watch?v=JEpsKnWZrJ8
 
 
 # AWARDS
